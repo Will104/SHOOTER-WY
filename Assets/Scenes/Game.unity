@@ -153,6 +153,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyOnePrefab: {fileID: 1879158960092629745, guid: fa51dfd9fb055e94284a5e7ba65fd577, type: 3}
+  enemyTwoPrefab: {fileID: 6543803843045001329, guid: 72a8e0fe6d34c9140b4c3e9bba79c29d, type: 3}
 --- !u!4 &92557030
 Transform:
   m_ObjectHideFlags: 0
